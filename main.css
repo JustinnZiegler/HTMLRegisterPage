@@ -1,0 +1,21 @@
+body{
+    background-color: skyblue;
+    padding: 350px;
+    text-align: right;
+    }
+    .top{
+        color: white;
+        background: blue;
+        font-size: xx-large;
+    }
+    form{
+        top: 100px;
+        margin: auto;
+        background-color: white;
+        text-align: center;
+        border: 1px solid;
+        }  
+    .Submit{
+        color: white;
+        background: blue;
+        }
